@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - a program that prints a line wiht puts function
- * retun: 0 (success)
+ * retun 0 (success)
  */
 int main(void)
 {
