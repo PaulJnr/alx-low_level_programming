@@ -8,7 +8,6 @@
  * each time it is executed,
  * and then print whether the number stored in the variable n is positive
  * or negative.
- * 
  * Return: Always 0 (success)
 */
 int main(void)
@@ -24,11 +23,11 @@ int main(void)
 	}
 	else if (n < 0)
 	{
-	printf("%d is zero\n", n);
+	printf("%d is negative\n", n);
 	}
 	else
 	{
-	printf("%d is negative\n", n);
+	printf("%d is zero\n", n);
 	}
 	return (0);
 }
